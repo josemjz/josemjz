@@ -1,5 +1,5 @@
 # Hey there, I am Jose Martinez
-# Graduate Student at Georgia Tech | Monterey Park, CA
+#### Graduate Student at Georgia Tech | Monterey Park, CA
 
 
 ## GitHub Stats 📊📈
