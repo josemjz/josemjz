@@ -1,11 +1,11 @@
 # Hey there, I am Jose Martinez
 #### Graduate Student at Georgia Tech | Monterey Park, CA
 
-I'm a graduate student at Georgia Tech pursuing an M.S. in Computer Science with a specialization in Artificial Intelligence. I also hold a B.S. in Business Administration with an option in Finance and a minor in Computer Science from CSU Long Beach.
+I'm pursuing an M.S. in Computer Science at Georgia Tech, specializing in Artificial Intelligence. I also hold a B.S. in Business Administration (Finance) with a minor in Computer Science from CSU Long Beach.
 
-My background includes business intelligence, financial reporting, database systems, and process automation. I've worked with SQL, Python, Power BI, and Excel to analyze data, automate workflows, and improve reporting processes.
+My professional experience spans business intelligence, financial reporting, database systems, and process automation. I've used SQL, Python, Power BI, and Excel to analyze data, automate workflows, and improve reporting processes.
 
-I'm currently interested in opportunities involving data analytics, data engineering, business intelligence, and related technical fields.
+I'm interested in opportunities involving data analytics, data engineering, business intelligence, and related technical fields.
 
 ### GitHub Stats 📊📈
 
