@@ -13,9 +13,11 @@ I'm currently interested in opportunities involving data analytics, data enginee
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=josemjz&layout=compact&theme=github_dark" height="180" alt="Top Languages" />
 </p>
+
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=josemjz&show_icons=true&theme=github_dark&hide=stars,issues,contribs&hide_rank=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=josemjz&layout=compact&theme=github_dark&exclude_repo=cpp_rep" height="180" alt="Top Languages" />
 </p>
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=josemjz&theme=dark" alt="GitHub Streak" />
