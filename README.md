@@ -17,8 +17,10 @@ I'm currently interested in opportunities involving data analytics, data enginee
 
 ## Projects
 
+- **[environmental-telemetry-platform](https://github.com/josemjz/environmental-telemetry-platform)**: Environmental telemetry and analytics platform integrating Arduino sensors and other technologies.
 - **[Key-Hook](https://github.com/bladervnner/Key-Hook)**: Key and access management system built using Python, PostgreSQL, SQLAlchemy, and MongoDB.
 - **[mazeSolver](https://github.com/bladervnner/mazeSolver)**: Implementations of DFS, BFS, Dijkstra's algorithm, and A* for pathfinding and navigation.
+
 
 ## Education
 
