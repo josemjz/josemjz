@@ -1,6 +1,27 @@
 # Hey there, I am Jose Martinez
+# Graduate Student at Georgia Tech | Monterey Park, CA
 
 
+## GitHub Stats 📊📈
+
+### Technical Skills
+
+<p align="center">
+  <a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=py,postgres,mongodb,git,github,java,cpp,r,arduino,raspberrypi&theme=dark&perline=10" alt="Technical Skills"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=josemjz&layout=compact&theme=github_dark" height="180" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=josemjz&show_icons=true&theme=github_dark" height="180" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=josemjz&theme=dark" alt="GitHub Streak" />
+</p>
 
 I'm a graduate student at Georgia Tech pursuing an M.S. in Computer Science with a specialization in Artificial Intelligence. I also hold a B.S. in Business Administration with an option in Finance and a minor in Computer Science from CSU Long Beach.
 
