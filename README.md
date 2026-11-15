@@ -1,4 +1,6 @@
-# Jose Martinez
+# Hey there, I am Jose Martinez
+
+
 
 I'm a graduate student at Georgia Tech pursuing an M.S. in Computer Science with a specialization in Artificial Intelligence. I also hold a B.S. in Business Administration with an option in Finance and a minor in Computer Science from CSU Long Beach.
 
