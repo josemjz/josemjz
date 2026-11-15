@@ -2,9 +2,7 @@
 #### Graduate Student at Georgia Tech | Monterey Park, CA
 
 
-## GitHub Stats 📊📈
-
-### Technical Skills
+### GitHub Stats 📊📈
 
 <p align="center">
   <a href="https://skillicons.dev">
